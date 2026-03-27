@@ -1,0 +1,2 @@
+# IUB-Complaint-Management-System-Mobile-Application-
+The University Complaint Management System is a mobile application designed  to streamline the process of submitting, managing, and resolving complaints  within a university. System will provide a centralized platform where  students can register complaints and track their progress, while administrators  can efficiently manage and resolve them. 
